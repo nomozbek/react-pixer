@@ -1,0 +1,67 @@
+.xizmatlar-cards{
+  margin-top: 80px;
+}
+
+.xizmatlar-cards__list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.xizmatlar-cards__item {
+  width: 320px;
+  height: 260px;
+  text-align: center;
+  background: #FFFFFF;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+   border-radius: 5px;
+   margin: 30px;
+   padding: 10px;
+}
+
+.xizmatlar-cards__img {
+  width: 220px;
+  height: 130px;
+}
+
+.xizmatlar-cards__title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 130%;
+  color: #000000;
+}
+
+.xizmatlar-cards__info {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.xizmatlar-cards__btn {
+  text-align: center;
+}
+
+.xizmatlar-cards__btn button {
+  padding: 8px 16px;
+  background: #00BAFC;
+  border-radius: 5px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.xizmatlar-cards__btn a {
+  color: #00BAFC;
+}

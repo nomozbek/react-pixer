@@ -1,0 +1,21 @@
+.xizmatlar {
+  margin-top: 150px;
+  text-align: center;
+
+
+  &__title {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+}
+
+  &__paragraph {
+    width: 700px;
+    margin: auto; 
+  }
+
+}
